@@ -1,2 +1,2 @@
 # Demo
-Repository for my learning only.
+Repository for my learnings only.
